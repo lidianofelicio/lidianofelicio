@@ -1,8 +1,7 @@
 # Olá, eu sou Lidiano Felício 👋
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou em transição profissional para a área de Tecnologia da Informação.
-
-Atualmente venho desenvolvendo projetos práticos em desenvolvimento web, utilizando principalmente **React, JavaScript, Git/GitHub, Supabase e PostgreSQL**, além de aprofundar conhecimentos em backend, banco de dados, Docker, testes, APIs e arquitetura de software.
+Atualmente venho desenvolvendo projetos práticos em desenvolvimento web, utilizando React, JavaScript e Git/GitHub, além de praticar fundamentos de backend e banco de dados com Supabase e PostgreSQL. Também venho aprofundando conhecimentos em Docker, testes, APIs e arquitetura de software.
 
 ## Tecnologias e ferramentas
 
